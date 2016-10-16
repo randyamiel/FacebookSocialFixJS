@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name           Social Fixer for Facebook
+// @name           Facebook Social JS - OS Version.
 // @namespace      http://userscripts.org/users/864169999
 // @include        /^https?:\/\/facebook\.com\//
 // @include        /^https?:\/\/[^\/]*\.facebook\.com\//
@@ -18,11 +18,7 @@
 // @grant          GM_setValue
 // @grant          GM_xmlhttpRequest
 // ==/UserScript==
-/* 
-Social Fixer
-(c) 2009-2016 Matt Kruse
-http://SocialFixer.com/
-*/
+
 
 // Extension API
 var Extension = (function() {
