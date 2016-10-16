@@ -1,19 +1,21 @@
 # FacebookSocialJS
 Facebook has taken a lot of features away but they can't stop us javascripters.
 
-Open source version
+Open source version:
+=============================
 https://github.com/randyamiel
 
 Shoutout and Credit:
 ===============================
-Parts taken from Matt-Kruse's open source version written totally in JS.
+Parts taken from Matt-Kruse's open source version written totally in JS. 
+
 https://github.com/matt-kruse
 
 # Downloads
 
 - Firefox: Javascript for GreaseMonkey Add-in for  
     - Download add-in GreaseMonkey: https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/
-    - Download the JS FacebookSocial.user.js the repo.
+    - Download the JS FacebookSocial.user.js the repo. (currently here: https://github.com/randyamiel/FacebookSocialFixJS/blob/master/FacebookSocial.user.js)
     - Click below to install the User Script into your browser. Add JS code to GreaseMonkey.
 - IE Edge: 
    - Not fully supported in Edge, but most features work.
